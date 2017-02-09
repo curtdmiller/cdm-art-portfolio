@@ -1,0 +1,41 @@
+
+/* EVENTS */
+ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.event { margin: 0 0 1em 0 }
+.event-title {
+    font-weight: bold;
+    font-style: italic;
+}
+.event-info {
+    margin: 0 0 1em 0;
+    line-height: 120%;
+}
+.event-description {
+    margin: 0 0 1em 0;
+    line-height: 120%;
+}
+.event-repertoire {
+    margin: 0 0 1em 0;
+    line-height: 120%;
+}
+.movements {
+    padding-left: 20px;
+    margin-bottom: 1em;
+}
+#upcoming-events h2 {
+  margin-top: 0;
+}
+#past-events h2 {
+  margin-top: 0;
+}
+#past-events {
+  padding-top: 20px;
+}
+h4.year {
+  /*display: block;*/
+  border-bottom: 2px solid #9ac6a5;
+}

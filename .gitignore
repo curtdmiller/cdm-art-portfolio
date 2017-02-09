@@ -1,0 +1,8 @@
+*.DS_Store
+
+img/
+files/
+
+css/bootstrap3_player.css
+js/bootstrap3_player.css
+jquery.min.js
